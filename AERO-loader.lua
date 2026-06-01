@@ -13,6 +13,7 @@ task.wait(1)
 -- Safely download and run your massive Main script file using the instant proxy bypass
 loadstring(game:HttpGet("https://githack.com"))()
 
+
 StarterGui:SetCore("SendNotification", {
     Title = "Aero Scripts",
     Text = "Framework successfully executed!",
